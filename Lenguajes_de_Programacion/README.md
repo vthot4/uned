@@ -1,4 +1,4 @@
-# Lenguanjes de programación
+# Lenguajes de programación
 
 
 
@@ -8,16 +8,18 @@
 ### Unidad didáctica 1: Principios de diseño de los lenguajes de programación.
 
 - **Tema 1:** Paradigmas de computación [Link](./Temas/Tema1.md)
-
-  - Abstracción en los lenguajes de programación (sección 1.1)
+- Abstracción en los lenguajes de programación (sección 1.1)
   - Paradigmas de computación (sección 1.2)
-
+  
 - **Tema 2:** Principios de diseño de los lenguajes [Link](./Temas/Tema2.md)
-
-  - Descripción de los lenguajes de programación (sección 1.3)
+- Descripción de los lenguajes de programación (sección 1.3)
   - Diseño de los lenguajes de programación (sección 1.4)
+- **Ejercicios**
+  - Resueltos.
+  - Propuestos.
 
-    
+----
+
 ### Unidad didáctica 2: Programación Declarativa
 
 - **Tema 3:** Programación Funcional
@@ -62,3 +64,14 @@
   - Semántica de los subprogramas (sección 6.5.1)
   - Mecanismos de paso de parámetros (sección 6.5.2)
   - Ambientes de Ejecución (sección 6.5.3)
+
+
+
+## Exámenes
+
+
+
+
+
+## PED
+
