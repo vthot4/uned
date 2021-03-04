@@ -70,6 +70,15 @@
 
 
 
+## Clases
+
+- Clase de Presentación.
+- Clase Práctica de la asignatura.  [Link](./clases/Clase_Practica_de_la_asignatura.md)
+
+
+
+
+
 ## Exámenes
 
 
@@ -77,4 +86,11 @@
 
 
 ## PED
+
+
+
+## Resources
+
+- https://www.youtube.com/watch?v=ZjmYwdnK6jM
+- 
 
