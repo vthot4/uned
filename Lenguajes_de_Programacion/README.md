@@ -8,11 +8,11 @@
 ### Unidad didáctica 1: Principios de diseño de los lenguajes de programación.
 
 - **Tema 1:** Paradigmas de computación [Link](./Temas/Tema1.md)
-- Abstracción en los lenguajes de programación (sección 1.1)
+  - Abstracción en los lenguajes de programación (sección 1.1)
   - Paradigmas de computación (sección 1.2)
   
 - **Tema 2:** Principios de diseño de los lenguajes [Link](./Temas/Tema2.md)
-- Descripción de los lenguajes de programación (sección 1.3)
+  - Descripción de los lenguajes de programación (sección 1.3)
   - Diseño de los lenguajes de programación (sección 1.4)
 - **Ejercicios**
   - Resueltos.
@@ -22,7 +22,7 @@
 
 ### Unidad didáctica 2: Programación Declarativa
 
-- **Tema 3:** Programación Funcional
+- **Tema 3:** Programación Funcional  [Link](./Temas/Tema3.md)
   - Programas como funciones (sección 2.1)
   - Evaluación perezosa (sección 2.2)
   - Introducción al lenguaje Haskell (sección 2.3)
@@ -30,6 +30,8 @@
   - Especificación de programas (sección 3.1)
   - Computación lógica (sección 3.2)
   - Técnicas avanzadas de programación lógica (sección 3.3)
+
+---
 
 
 ### Unidad didáctica 3: Principios básicos del diseño de lenguajes
@@ -51,6 +53,7 @@
   - Equivalencia de tipos de datos (sección 5.2)
   - Conversión de tipos de datos (sección 5.3)
 
+---
 
 ### Unidad Didáctica 4: Abstracción y estructura del control y la organización de entornos de ejecución
 
