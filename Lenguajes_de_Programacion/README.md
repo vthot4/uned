@@ -26,7 +26,7 @@
   - Programas como funciones (sección 2.1)
   - Evaluación perezosa (sección 2.2)
   - Introducción al lenguaje Haskell (sección 2.3)
-- **Tema 4:** Programación Lógica [Link](./Temas/Tema3.md)
+- **Tema 4:** Programación Lógica [Link](./Temas/Tema4.md)
   - Especificación de programas (sección 3.1)
   - Computación lógica (sección 3.2)
   - Técnicas avanzadas de programación lógica (sección 3.3)
